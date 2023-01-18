@@ -1,0 +1,3 @@
+cd built
+./test
+cd -
